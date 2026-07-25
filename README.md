@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abdu2030/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abdu2030/MyLeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abdu2030/MyLeetCode/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abdu2030/MyLeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abdu2030/MyLeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
