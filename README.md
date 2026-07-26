@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abdu2030/MyLeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/abdu2030/MyLeetCode/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/abdu2030/MyLeetCode/tree/master/0200-number-of-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abdu2030/MyLeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abdu2030/MyLeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/abdu2030/MyLeetCode/tree/master/0066-plus-one) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abdu2030/MyLeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
