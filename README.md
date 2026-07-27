@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abdu2030/MyLeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abdu2030/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/abdu2030/MyLeetCode/tree/master/0200-number-of-islands) |
+| [0228-summary-ranges](https://github.com/abdu2030/MyLeetCode/tree/master/0228-summary-ranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abdu2030/MyLeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Math
 |  |
