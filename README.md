@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abdu2030/MyLeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/abdu2030/MyLeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/abdu2030/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/abdu2030/MyLeetCode/tree/master/0200-number-of-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abdu2030/MyLeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Math
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdu2030/MyLeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abdu2030/MyLeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abdu2030/MyLeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
